@@ -1,0 +1,22 @@
+{
+	"name": "dotapp-cli",
+	"version": "0.0.1",
+	"description": "The command line interface of dotapp framework",
+	"license": "MIT",
+	"main": "index.js",
+	"author": {
+		"name": "Basem khirat"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"bin": {
+		"dotapp": "index.js"
+	},
+	"dependencies": {
+		"commander": "^2.11.0",
+		"node-zip": "^1.1.1",
+		"request": "^2.83.0",
+		"unzipper": "^0.10.11"
+	}
+}
