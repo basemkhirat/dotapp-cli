@@ -1,6 +1,6 @@
 {
 	"name": "dotapp-cli",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "The command line interface of dotapp framework",
 	"license": "MIT",
 	"main": "index.js",
